@@ -63,6 +63,7 @@ new Vue({
         id: 1,
         name: 'Usuari1',
         image: require('./images/profile.jpg'),
+        gender: 'Masculí',
         age: 20
       },
       messages: [

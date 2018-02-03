@@ -6,7 +6,7 @@
 
 ### 1. Download this repository
 ```
-git clone https://github.com/framework7io/framework7-template-vue-webpack portam-mobilitat
+git clone https://github.com/framework7io/somhackathon18-porta-m portam-mobilitat
 ```
 
 Repository will be downloaded into `portam-mobilitat/portam/` folder

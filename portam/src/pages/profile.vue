@@ -6,6 +6,7 @@
         <f7-list style="top: 200px">
             <f7-list-item><b>Nom</b> {{ profile.name }}</f7-list-item>
             <f7-list-item><b>Edat</b> {{ profile.age }}</f7-list-item>
+            <f7-list-item><b>Sexe</b> {{ profile.gender }}</f7-list-item>
         </f7-list>
         <f7-fab position="center-bottom" v-if="$root.user.id != profile.id">
             <f7-fab-button text-color="white" @click="message">
